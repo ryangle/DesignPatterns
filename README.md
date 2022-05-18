@@ -1,6 +1,8 @@
-# DesignPatterns
+# 设计模式 Design Patterns
 
-## 关于.NET Interactive Notebook
+本项目采用.NET Interactive Notebook编写，示例代码在.Net 6中完成测试。
+
+## 关于.NET Interactive Notebook 的使用
 
 1. 使用vs code，安装C#、.NET Interactive Notebooks插件
 2. 命令->输入notebook->.NET Interactive:Create new blank notebook->Create as .ipynb->C#
