@@ -11,6 +11,41 @@
 5. 在DesignPatterns目录下执行命令```code .```即可打开vscode
 6. 开始一边阅读一边调试，愉快的享用吧。
 
+## 模式的分类
+
+1. 创建型模式（Creating Pattern）
+
+   * 简单工厂、工厂模式
+   * 抽象工厂模式
+   * 单例模式
+   * 建造者模式
+   * 原型模式
+   
+2. 结构模式（Structural Pattern）
+
+   * 适配器模式
+   * 合成模式
+   * 装饰模式
+   * 代理模式
+   * 享元模式
+   * 门面模式
+   * 桥梁模式
+
+3. 行为模式（Behavioral Pattern）
+
+   * 责任链模式
+   * 命令模式
+   * 解释器模式
+   * 迭代器模式
+   * 中介模式
+   * 备忘录模式
+   * 观察者模式
+   * 状态模式
+   * 策略模式
+   * 模板方法模式
+   * 访问者模式
+
+
 ## 关于.NET Interactive Notebooks
 
 1. 使用环境：vs code，安装C#、.NET Interactive Notebooks插件
