@@ -1,13 +1,13 @@
 # 设计模式 Design Patterns
 
-本项目采用.NET Interactive Notebooks编写，示例代码在.Net 6中完成测试。
+本项目采用`.NET Interactive Notebooks`编写，示例代码在.Net 6中完成测试。
 
 ## 享用方法
 
 1. 安装[vscode](https://code.visualstudio.com/)
 2. 打开vscode，安装C#插件
-3. 安装.NET Interactive Notebooks插件
-4. git clone https://github.com/ryangle/DesignPatterns.git
+3. 安装```.NET Interactive Notebooks```插件
+4. `git clone https://github.com/ryangle/DesignPatterns.git`
 5. 在DesignPatterns目录下执行命令```code .```即可打开vscode
 6. 开始一边阅读一边调试，愉快的享用吧。
 
