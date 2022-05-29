@@ -1,5 +1,7 @@
 # 设计模式 Design Patterns
 
+使用面向对象的方式开发软件时，设计模式是非常重要的。用好了他，就能够实现最重要的两个目标：高内聚（Cohesion），低耦合（Coupling）。
+
 本项目采用`.NET Interactive Notebooks`编写，示例代码在.Net 6中完成测试。
 
 ## 享用方法
